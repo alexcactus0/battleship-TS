@@ -6,7 +6,6 @@ This is a browser-based Battleship game rebuilt using TypeScript. The original v
 
 The project uses a modular architecture and focuses on applying object-oriented programming concepts together with strong typing.
 
----
 
 ## Features
 
@@ -20,7 +19,7 @@ The project uses a modular architecture and focuses on applying object-oriented 
 * Dynamic DOM rendering
 * Clean separation between game logic and UI
 
----
+
 
 ## Technologies Used
 
@@ -30,7 +29,7 @@ The project uses a modular architecture and focuses on applying object-oriented 
 * HTML
 * CSS
 
----
+
 
 ## Concepts Practiced
 
